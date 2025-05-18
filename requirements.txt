@@ -1,0 +1,9 @@
+cx_Oracle==8.3.0
+pandas
+sqlalchemy
+python-dotenv
+flask
+jinja2
+plotly
+dash
+openpyxl
